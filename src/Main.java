@@ -17,7 +17,7 @@ public class Main {
             System.out.println(i);
         }
         ///задание 4
-        System.out.println("Задание4");
+        System.out.println("Задание41");
 
         for (int i = 10; i >= -10; i--) {
             System.out.println(i);
@@ -26,7 +26,7 @@ public class Main {
         System.out.println("Задание5");
 
         for (int i = 1904; i <= 2096; i++) {
-            if (i % 4 == 0 && i % 100 != 0 || i % 400 == 00) {
+            if (i % 4 == 0 && i % 100 != 0 || i % 400 == 0) {
                 System.out.println(i + "год является високосным");
             }
         }
